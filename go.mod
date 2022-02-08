@@ -1,4 +1,4 @@
-module github.com/pressly/goose/v3
+module github.com/trad3r/goosev3
 
 go 1.16
 

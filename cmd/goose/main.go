@@ -6,8 +6,6 @@ import (
 	"log"
 	"os"
 	"runtime/debug"
-
-	"github.com/pressly/goose/v3"
 )
 
 var (
